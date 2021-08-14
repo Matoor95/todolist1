@@ -9,7 +9,7 @@
                   <a href="{{ route('tasks.create') }}" role="button" class="btn btn-primary btn-sm float-right">Créer une tâche</a>
                 </div>
                 <div class="card-body">
-                    <table class="table table-borderless table-striped table-hover table-sm">
+                    <table class="table table-borderless table-striped table-hover table-sm bg-light">
                       <thead>
                         <tr>
                           <th>#</th>
